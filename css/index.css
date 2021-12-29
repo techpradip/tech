@@ -1,0 +1,10 @@
+      body {
+        background-image: url("https://raw.githubusercontent.com/techpradip/tech/main/background.jpg");
+      }
+      h1 {
+        text-align: center ;
+        color: black ;
+      }
+      hr { 
+        margin-left: 0;
+      }
