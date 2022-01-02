@@ -1,0 +1,159 @@
+
+html {
+	font-family: "",serif;
+}
+body {
+	margin: 0;
+	text-align: center;
+	font-family: Times new Roman,serif;
+	background-color: #CDDEFF;
+}
+h1 {
+	color: #66BFBF;
+	font-size: 5.625rem;
+	margin: 150px auto 0 auto;
+	font-family: 'Kunstler Script', cursive;
+}
+h2 {
+	color: #66BFBF;
+	font-size: 2.5rem;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	margin-top: 2rem;
+	padding-top: 5rem;
+}
+h3 {
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+p {
+	
+}
+
+.top {
+	background-color: #F4F9F4;
+	position: relative;
+	padding-top: 100px;
+
+}
+.middle-container {
+	background-color: #F5EEDC;
+	border-radius: 30em;
+	position: relative;
+	width: 50%;
+	margin: auto;
+}
+.intro {
+	background-color: #95D1CC;
+	border-radius: 3rem;
+}
+.profile {
+	width: 19rem;
+	float: right;
+	margin: 0px 20px 20px;
+	border-radius: 30px;
+}
+.desc {
+	padding-bottom: 5em;
+	color: #8a3ab9;
+	font-family: Licorice;
+}
+.neonh1 {
+	font-size: 50px;
+	color: #04293A;
+}
+.bottom-container {
+	padding: 20px;
+	background-color: #C4E3CB;
+	height: 5rem;
+}
+
+.top_cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;	
+}
+
+.pro {
+	text-decoration: none;
+	margin: 5px;
+}
+
+.bottom_cloud {
+	position: absolute;
+	bottom: 300px;
+	left: 300px;
+}
+
+
+
+.fa {
+  opacity: 0.5;	
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {	
+	opacity: 1;
+}
+
+.vidyut {
+	background-image: url("https://wallpaperaccess.com/full/1908205.jpg");
+	width: 500px;
+}
+
+
+.about {
+	background-color: #EEF2FF;
+	width: 75%;
+	margin: 10px auto;
+	border-radius: 150px;
+}
+
+.about-row {
+	margin: 100px auto;
+	padding: 2rem;
+	width: 50%;
+	text-align: left;
+	line-height: 2;  
+}
+.computer-img {
+	width: 16rem;
+	float: left;
+	margin-right: 30px;
+}
+.vidyut-img {
+	width: 16rem;
+	float: right;
+	margin-left: 30px;
+}
+.contact-me {
+	border-radius: 50px;
+	padding: 10px;
+	background-color: #F4F9F4;
+}
+.btn {
+	color: gold;
+	background-color: #3b5998;
+	text-decoration: none;
+	border-radius:0.75em;
+	padding: 0.75em;
+	margin-bottom: 3rem;
+}
+.insta {
+	background-image: linear-gradient(#8a3ab9,#bc2a8d);
+}
+.button {
+	margin-top: 2rem;
+}
+
+.navigation-bar {
+	position: fixed;
+	float:left;
+	z-index:3;
+	text-decoration: none;
+}
